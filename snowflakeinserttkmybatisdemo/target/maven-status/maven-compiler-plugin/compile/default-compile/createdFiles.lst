@@ -1,0 +1,6 @@
+com\example\snowflakeinserttkmybatisdemo\util\SnowFlakeUtil.class
+com\example\snowflakeinserttkmybatisdemo\mapper\UserMapper.class
+com\example\snowflakeinserttkmybatisdemo\util\SnowFlakeUtil$IdGenHolder.class
+com\example\snowflakeinserttkmybatisdemo\util\UUIDGenId.class
+com\example\snowflakeinserttkmybatisdemo\UserApplication.class
+com\example\snowflakeinserttkmybatisdemo\bean\User.class
